@@ -1,4 +1,4 @@
-## All the files are in the folder of src and that src file contains two sub-folder that is Roures and components.
+## All the files are in the folder of src and that src file contains two sub-folder that is Routes and components and it is basically a Image Gallery.
 
 - At components folder there are 4 files that conatins all the api handle program.
 
